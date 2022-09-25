@@ -1,2 +1,0 @@
-string="Hi there sam!
-print(string.split())
